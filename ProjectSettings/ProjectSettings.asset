@@ -873,11 +873,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: b1ba9c61-e068-40fb-94d9-c12ddd56af01
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
-  organizationId: 
+  projectName: 3DGameKitLite_Patched
+  organizationId: lolodu34
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}
